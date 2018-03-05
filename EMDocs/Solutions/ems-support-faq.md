@@ -35,7 +35,7 @@ Microsoft provides global pre-sales, billing, subscription, and technical suppor
 
 Support is included with Enterprise Mobility + Security. You can submit support requests for Azure Active Directory Premium, Azure Information Protection, and Microsoft Intune through the Office 365 portal. The Office 365 portal provides the intended support experience for EMS, but you can also submit Azure Active Directory Premium, Azure Information Protection, and Microsoft Intune support requests through the Azure portal without purchasing a support plan by choosing a *Subscription with technical support included*.
 
-**How do I get Intune support?**
+**How do I get Intune support?** 
 
 Enterprise Mobility + Security customers can submit support requests for Intune using the Azure or Office 365 portal. [Learn more about Intune support options](https://docs.microsoft.com/intune/get-support).
 
